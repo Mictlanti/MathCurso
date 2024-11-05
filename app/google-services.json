@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94514854952",
+    "firebase_url": "https://mathcourse-7e843-default-rtdb.firebaseio.com",
+    "project_id": "mathcourse-7e843",
+    "storage_bucket": "mathcourse-7e843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94514854952:android:0c10f3be04579812e9c91d",
+        "android_client_info": {
+          "package_name": "com.horizon.matemticascurso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94514854952-i099vvdmg4k61f2gdv9850em0nt18nj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.horizon.matemticascurso",
+            "certificate_hash": "27921dcee76db2de36b9dd23dbb99b86f5eb67dc"
+          }
+        },
+        {
+          "client_id": "94514854952-1a2lt0he7dt9n0kl517neqhp64aqoocf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccVYBgOD3Vrs2IKq_bXM7XgzSC4p6zoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94514854952-1a2lt0he7dt9n0kl517neqhp64aqoocf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

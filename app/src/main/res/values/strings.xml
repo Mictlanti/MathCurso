@@ -1,0 +1,547 @@
+<resources>
+    <string name="web_client_id">94514854952-1a2lt0he7dt9n0kl517neqhp64aqoocf.apps.googleusercontent.com</string>
+
+    <!--Universales-->
+    <string name="VoF">Verdadero o falso</string>
+    <string name="check">Check</string>
+    <string name="app_name">MathCurso</string>
+    <string name="desarrollo">Ejemplo de desarrollo</string>
+    <string name="Procedimiento">Procedimiento</string>
+    <string name="finCurso1">¡Felicidades!</string>
+    <string name="finCurso2"> Completaste el curso con éxito.</string>
+    <string name="temas">Temas: </string>
+    <string name="nextTopic">Pasa al siguiente tema</string>
+    <string name="next_page">Siguiente página</string>
+    <string name="resuelve">Resuelve lo siguiente.</string>
+    <string name="levelOne">Principiante</string>
+    <string name="levelTwo">Intermedio</string>
+    <string name="levelThree">Avanzado</string>
+    <string name="note">Nota: </string>
+    <string name="Desarrollo">Desarrollo</string>
+    <string name="selectTopic">Selecciona el tema:</string>
+    <string name="Sections">Secciónes: </string>
+    <string name="basesAlge">Bases de álgebra</string>
+    <string name="algebra1">Álgebra 1 (A - B)</string>
+    <string name="algebra2">Álgebra 2 (B- C)</string>
+    <string name="algebra3">Álgebra 3 (C - D)</string>
+    <string name="session1">Sesión 1</string>
+    <string name="session2">Sesión 2</string>
+    <string name="session3">Sesión 3</string>
+    <string name="finCurso3">No disponible\nEspera las próximas actualizaciones.</string>
+    <string name="exampleOneBO">Contesta con el ejemplo</string>
+    <string name="settings">Ajustes</string>
+
+    <!--examplesToExercise-->
+    <string name="eToBasicOpeSession2_one">
+        Para el álgebra, al referirse a la suma, esta puede significar un aumento o disminución dependiendo la cantidad a sumar.
+        Para ejemplificar lo anterior, hagamos una suma de polinomios ordenandolos por términos semejantes:
+    </string>
+    <string name="eToSimpliSession1_one">
+        Un exponente representa a un númeroque indica las veces que se multiplica una base por sí sola. Por ejemplo, en la expresión:
+    </string>
+    <string name="eToSimpliSession1_two">(a) es la bse y (b) es el exponente.</string>
+    <string name="eToSimpliSession1_three">De esta forma podemos obtener el resultado de un número elevado a la n (enésima) pontencia.</string>
+    <string name="eToMultiPoli_one">Leyes de los signos:</string>
+    <string name="eToMultiPoli_two">
+        Signos iguales dan + \n
+        Signos diferentes dan -
+    </string>
+    <string name="eToMultiPoli_three">Es decir:</string>
+    <string name="eToMultiPoli_four">
+        + por + = +
+        - por - = +
+        + por - = -
+        - por + = -
+    </string>
+    <string name="eToMultiPoli_five">Para multiplicar polinomios seguiremos el metodo FOIL (first, Outer, Inner, Last), es decir: </string>
+
+    <!--basic operation-->
+    <string name="sumaMono">Suma de monomios</string>
+    <string name="sumaMono_one">
+        Un monomio es una expresión del álgebra que consta de un sólo término, por ejemplo, 3x, -b.
+        \nEn suma de monomios, ubica los términos semejantes (si los hay) y sumalos.
+    </string>
+    <string name="sumaMono_two">Son expresiones equivalentes a</string>
+    <string name="sumaMono_three"> pero generalmente se escriben como: </string>
+    <string name="sumaMono_three_one">"El sumando -2m tiene una forma negativa, por lo que es necesario colocarlo dentro de paréntesis para indicar la suma."</string>
+    <string name="basicOperationBox5">Signos de agrupación</string>
+    <string name="BoxBO5_one">Se usan () paréntesis, [] corchete y {} llaves para indicar una agrupación de cantidades. Así, \n(y - z)
+        indica que su resta debe sumarse con x.
+    </string>
+    <string name="BoxBO5_two">Elimina correctamente los signos de agrupación</string>
+    <string name="BocBOT1_one">
+        Para eliminar los signos de agrupación con signo negativo, cambia el signo de cada cantidad dentro de la agrupación por su inverso.
+    </string>
+    <string name="note_one">
+        Para eliminar signos de agrupación precididos por un signo positivo, deja el mismo signo de cada una de las cantidades que se
+        hallan dentro de él.\n
+    </string>
+    <string name="BoxBOT2_one">Escribe tu respuesta en orden alfabético.</string>
+    <string name="BoxBOT3_one">Multiplicación de monomios y polinomios</string>
+    <string name="BoxBOT3_two">
+        Ley conmutativa de la multiplicación: El orden de los factores no altera el producto. Así, el producto ab puede escribirse como ba.
+    </string>
+    <string name="BoxBOT3_three">Signos iguales dan positivo(+), signos diferentes dan negativo(-)</string>
+    <string name="BoxBOT4_one">Un polinomio es una expresión del álgebra que consta de más de un solo término como:</string>
+    <string name="textExampleOne_one">Son términos semejentes aquellos que contienen la misma parte literal, es decir, la misma variable,
+        afectadas con el mismo exponente.</string>
+    <string name="textExampleOne">Suma con términos semejantes:</string>
+    <string name="textExampleTwo">Suma sin términos semejantes:</string>
+
+    <!--Simplificacion-->
+    <string name="simplificacion">Simplificación</string>
+    <string name="ScreenLazy_one">Analiza el siguiente ejemplo:</string>
+    <string name="ScreenLazy_two">La simplificación algebraica nos será de gran utilidad en la resolución de ecuaciones complejas,
+        ya que podremos reducir el número de pasos para la solución de estas ecuaciones.</string>
+    <string name="Box2_one">Simplifica las siguientes expresiones algebraicas.</string>
+
+    <string name="Box3_one">Sugerencia: </string>
+    <string name="Box3_two">Recuerda darle un repaso a las leyes de los signos</string>
+    <string name="Box3_three">Verdadero o falso</string>
+
+    <string name="Box4_one">Simplifica al máximo los siguientes ejercicios</string>
+
+    <string name="Box5_one">¡Felicidades! Lo has hecho muy bien.</string>
+    <string name="Box5_two">Simplifica las siguientes expresiones algebraicas.</string>
+
+    <!--TransformacionEcua-->
+    <string name="name_transfor">Transformación ecuaciones</string>
+    <string name="exampleOneTransforEcua">
+        En la transformación de ecuaciones debemos mantener la propiedad de equivalencia, es decir, aplicar las mismas operaciones en ambos lados de la igual,
+        así como en el iguiente ejemplo:
+    </string>
+    <string name="itemsLazy_eight">El objetivo es despejar a x de la ecuación original:</string>
+    <string name="itemsLazy_nine">Añadimos b en ambos lados, pero con signo contrario, para aislar a x:</string>
+    <string name="itemsLazy_ten">
+        Finalmente, para que x quede sola, debemos despejar la variable \"a\" por su operación contraria; en este caso dividimos ambos lados de la ecuación por a:
+    </string>
+    <string name="ExerciseTransformEcuaOne1_one">¿En cual de las opciones está bien desarrollada la propiedad de equivalencia?</string>
+    <string name="ExerciseTransformEcuaOne1_two">Desarrollada la propiedad de equivalencia para x</string>
+    <string name="BoxA2_one">1) simplifica las siguientes expresiones algebraicas.</string>
+    <string name="BoxA5_one">2) De la ecuación a = bc + d</string>
+    <string name="BoxA5_two">2.1) Encuentra el valor de a cuando
+        b = 2, c = 2 y d = 2</string>
+    <string name="BoxA5_three">2.2) Resuelve la ecuación para d</string>
+    <string name="BoxA6_one">3) De la fórmula para hallar el área del triángulo.</string>
+    <string name="BoxA6_two">3.1) Encuentra el área del triángulo cuando b = 5cm y h = 20cm</string>
+    <string name="BoxA6_three">3.2) Encuentra la longitud de la base del triángulo cuando el área es 50 cm^2 y la altura de 25 cm</string>
+
+    <!--Leyes de los exponentes-->
+    <string name="name_leyExpo">Ley de los exponentes</string>
+    <string name="Box1A3_one">
+        Las leyes de los exponentes son un conjunto de reglas que nos permitirán operar expresiones algebraicas que contengan exponentes.\nUn
+        exponente o potencia no es más que una cantidad multiplicada por sí misma un número determinado de veces.\nVeamos la primer ley:
+    </string>
+    <string name="Box1A3_two">1. Producto de potencias de igual base.</string>
+    <string name="Box1A3_three">
+        Cuando tenemos dos exponentes con la misma base, el exponente resultante es la suma de los exponentes de los factores dados.
+    </string>
+    <string name="Box1A3_four">2. Cociente de potencias de igual base.</string>
+    <string name="Box1A3_five">
+        Cuando tenemos dos exponentes con la misma base, el exponentes resultante es la resta de los exponentes de los factores dados.
+    </string>
+    <string name="Box1A3_six">3. Potencia de una potencia.</string>
+    <string name="Box1A3_seven">Si tenemos una potencia elevada a otra potencia, podemos multiplicar los exponentes.</string>
+    <string name="Box2A3_one">Simplifica las siguientes expresiones</string>
+    <string name="Box3A3_one">Exponente cero</string>
+    <string name="Box3A3_two">Todo número elevado a la potencia cero será uno.</string>
+    <string name="Box3A3_three">Calcula lo siguiente.</string>
+    <string name="Box4A3_one">Potencia negativa.</string>
+    <string name="Box4A3_two">Toda cantidad elevada a una potencia negativa equivale a una fracción con numerador 1, y el denominador será la misma
+    cantidad con exponente positivo.</string>
+
+    <!--Multiplicación de polinomios-->
+    <string name="name_multiPoli">Multiplicación polinomios</string>
+    <string name="Box1A4_one">Un monomio es una expresión algebraica que consiste en un solo término multiplicado por una o más variables elevadas a
+        exponentes positivos o negativos.\nPor ejemplo:</string>
+    <string name="Box1A4_two">Un polinomio es a suma de dos o más monomios, por ejemplo:</string>
+    <string name="Box1A4_three">La multiplicación de polinomios es un tema muy importante para el álgebra, cálculo y diferentes disciplinas, como la física.</string>
+    <string name="Box2A4_two">Resuelve el siguiente ejercicio.</string>
+    <string name="ExerciseMultiPoliOne1_one">Resuelve correctamente</string>
+    <string name="reescribe">Reescribe la ecuación.</string>
+    <string name="desaCorrecta">Desarrolla correctamente.</string>
+    <string name="simplifica">Simplifica</string>
+
+    <!--simplificación monomios y polinomios-->
+    <string name="name_simpli2">Simplificación 2</string>
+    <string name="Box1B1_one">¿Cual procedimiento es el correcto?</string>
+    <string name="contestaCorrec">Contesta correctamente.</string>
+    <string name="exponente">Escribe aquí el exponente.</string>
+    <string name="excersicethreeSimpliTwo">Como podrás darte cuenta, en los ejercicios de división, se puede realizar de la siguiente forma:</string>
+
+    <!--Eciaciones Lineales-->
+    <string name="name_ecuaLineales">Ecuaciones Lineales</string>
+    <string name="Box1B2_zero">¿Qué son las ecuaciones algebraicas?</string>
+    <string name="Box1B2_one">Son enunciados de una igualdad entre dos expresiones algebraicas,
+        las cuales establecen una condición a la variable
+        que forma parte de dichas expresiones.\nAlgunos ejemplos de estas son: </string>
+    <string name="Box1B2_two">La resolución de estas ecuaciones se pueden dar a través de una sucesión de ecuciones, las cuales son ecuciones con el mismo conjunto de soluciones,
+        por ejemplo: 6x - 12 = 0 -> 6x = 12 -> x = 2</string>
+    <string name="Box2B2_one">Con los temas ya aprendidos en simplificación y transformación de ecuaciones, resuelve los siguientes ejercicios</string>
+    <string name="Box2B2_two">a) 7x - 3 = 3x + 21\n\nb) 6(4x - 2) = 4(x - 3)</string>
+    <string name="Box4B2_one">Del ejercicio anterior, podemos comprobar que el conjunto solución es x = 2 de la siguiente forma:</string>
+    <string name="Box4B2_two">Observa que cuando x es -4 o 2/3 obtenemos un cero en el denominador, lo que matemáticamente es una indeterminación.
+        Por lo tanto, -4 y 2/3 no está en el dominio de la variable x.</string>
+    <string name="Box5B2_one">Contesta lo siguiente:\n\nDe la ecuación </string>
+    <string name="Box5B2_two">¿Qué números no pertenecen al dominio de x?</string>
+    <string name="Box6B2_one">Obtener la solución de las siguientes ecuaciones:</string>
+
+    <!--Puntos de un plano-->
+    <string name="name_puntosPla">Puntos de un plano</string>
+    <string name="ExercisepunPlaOne1_one">
+        "Un plano cartesiano es un sistema de coordenadas que se utliliza para describir la posición de un punto en un plano.
+        \nAtribuido al filósofo-matemático fránces, René Descartes, el plano cartesiano consta de dos rectas numericas perpendiculares que se
+        cortan en un punto denominado como \"punto de origen\".\nEn el plano geométrico se designa una recta horizontal atribuida al eje x.
+        \nSe selecciona también una recta vertical atribuida al eje y.
+    </string>
+    <string name="ExercisepunPlaOne1_two">Un plano cartesiano es...</string>
+    <string name="Mapa">Mapa</string>
+    <string name="simbolos">Símbolos matemáticos</string>
+    <string name="coordenadas">Sistema de coordenadas</string>
+    <string name="ninguna">Ninguna</string>
+    <string name="ExercisepunPlaOne1_three">El eje "x" en el plano se representa de forma </string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="inclinada">Inclinada</string>
+    <string name="ExercisepunPlaOne3_one">
+        Observa que en las rectas numericas existen los números positivos y negativos; para x, los positivos se encuentran a la
+                            derecha del punto de origen y los negativos a la izquierda.
+                            \nPara y, los positivos están arriban del origen y los negativos debajo del origen.
+                            \nPor otra parte, un par ordenado es un conjunto de dos números que representan un orden, por ejemplo, si x es un primer
+                            número real y y es un segundo número real, esto se define como (x,y).
+    </string>
+    <string name="ExercisepunPlaOne3_two">¿Cual de los siguientes representa un par ordenado?</string>
+    <string name="Box2B3_one">Analiza el siguiente ejemplo:</string>
+    <string name="Box2B3_two">Representa los siguientes pares ordenados</string>
+    <string name="ExamplePunPlaOne_one">Ten en cuenta que en un par ordenado no es lo mismo (5,2) que (2,5), el orden es importante</string>
+    <string name="Box3B3_one">¿Qué incisos representan el punto A en el plano?</string>
+    <string name="ExercisePunPlaOne_five">¿Qué incisos representan el punto B en el plano?</string>
+    <string name="ExercisePunPlaOne_six">¿Qué incisos representan el punto D en el plano?</string>
+    <string name="Box4B3_one">De la ecuación y = 2x + 3</string>
+    <string name="Box4B3_two">Encuentra los valores de y cuando x tiene los siguientes valores: </string>
+    <string name="Box5B3_one">De la ecuación y = x + 2</string>
+    <string name="Box5B3_two">Encuentra los valores de y cuando x tiene el siguiente valor y representalo en un par ordenado. </string>
+    <string name="ExercisepunPlaTwo_one">Si x = -4, encuentra el valor de "y" y representalos como pares ordenados.</string>
+    <string name="ExercisepunPlaTwo_two">
+        Con los pares ordenados encontrados anteriormente: (3, 5)(-1, 1)(-4, -2), ¿Las siguiente gráfica representa los puntos anteriores?
+    </string>
+
+    <!--Gráfica de la recta 1-->
+    <string name="name_grafiRecta">Gráfica de la recta</string>
+    <string name="Box1B4_one">Supongase que una persona camina a una velocidad de 2 km/h.
+        La relación entre el tiempo de caminata, x horas, y la distancia recorrida, y km, se expresa en la siguiente ecuación:</string>
+    <string name="Box1B4_two">Esta relación la podemos ver en la siguiente tabla.</string>
+    <string name="Box1B4_three">La ecuación y = 2x tiene la forma y = mx + b, donde m representa el grado de inclinación de la recta (pendiente),
+        y b representa la ordenada al origen.
+        \nLa ordenada al origen es el punto de intersección de la recta entre el eje x y el eje "y" del plano.</string>
+    <string name="Box1B4_four">
+        La pendiente de una recta representa la razón de cambio de y, al cambio de x; en el caso de y=2x, "y" aumenta 2 unidades por
+        una unidad de incremento en x.</string>
+    <string name="Box1B4_four_one">En la ecuación y = 5x, ¿Cual es la razón de cambio de "y" al cambio de una unidad de x?</string>
+    <string name="Box1B4_six">Si la ecuación y = 2x, tiene la forma de y=mx+b, ¿Cual es el valor de b?</string>
+    <string name="grafiRectaOne_One">Esta relación podemos representarla en la siguiente tabla:</string>
+    <string name="grafiRectaOne_Two">La tabla representa la relación de x e y de la función y = 5x</string>
+    <string name="grafiRectaOne_Three">¿La siguiente tabla representa la relación de x e y de la función y = 7x</string>
+    <string name="grafiRectaOne_four">¿La siguiente tabla representa la relación de x e y de la función y = 1.5x?</string>
+    <string name="grafiRectaOne_five">De la ecuación:</string>
+    <string name="grafiRectaOne_six">¿Cuál es el valor de la pendinete y de la ordenada al origen?</string>
+    <string name="grafiRectaTwo_one">Si una recta tiene como pendiente 7 y su ordenada al origen es 2, es decir:</string>
+    <string name="grafiRectaTwo_two">¿Podemos determinar la ecuación de la recta con esta información?</string>
+    <string name="grafiRectaTwo_three">
+        Una vez comprendido el tema de pendiente y ordenada al origen, podemos expresar esto en forma grafica.
+        \nSegún la gráfica, ¿Cuál de las siguientes opciones es correcta?
+    </string>
+    <string name="grafiRectaTwo_four">De la ecuación y = 3x</string>
+    <string name="calculaGrafi">Calcula la ecuación de la recta cuando:</string>
+    <string name="grafiRectaOne_seven">Ten en cuenta que la ecuación de la recta es:</string>
+    <string name="Box2B4_three">Cuando la ecuación puede expresarde como y = mx, la recta pasará por el origen, pues b será igual a 0</string>
+    <string name="grafiRectaTwo_five">
+        Una forma rápida de gráficar ecuaciones lineales es la siguiente.
+        \n\nSupongase que la ecuación es:
+    </string>
+    <string name="grafiRectaTwo_six">1 .Identificamos el punto de intersección.</string>
+    <string name="grafiRectaTwo_six_one">2. A partir del punto de intersección, la pendiente avanzará de la siguiente forma.</string>
+    <string name="grafiRectaTwo_seven">Representado en gráfica.</string>
+    <string name="grafiRectaTwo_eight">Con la anteriormente visto, ¿Lo siguiente es una representación fiel a la representación gráfica?</string>
+    <string name="Box3B4_one">1) De la siguiente gráfica ¿Qué inciso representa la pendiente y la ordenada al origen?</string>
+    <string name="Box4B4_one">1) Si una recta tiene como pendiente 2 y ordenada al origen -1. ¿Qué gráfica representa lo antes dicho?</string>
+    <string name="Box5B4_one">Observa la recta y responde lo siguiente</string>
+    <string name="Box5B4_two">A) Cuando x aumenta en dos unidades, ¿cuantás unidades crece y?</string>
+    <string name="Box5B4_three">B) ¿Cuánto vale la pendiente y la ordenada al origen?</string>
+    <string name="Box6B4_three">¿Podemos determinar la ecuación de la recta con esta información?</string>
+    <string name="Box6B4_three_one">Si la ecuación de la recta tiene la forma de y=mx+b</string>
+    <string name="Box6B4_four">De los datos proporcionados, podemos construir la formula de la recta de la siguiente manera:
+    \nDe la forma y = mx + b, tenemos que m = -1/2, mientras que la ordenada al origen es 2 cuando x = 0, por lo tanto, y = -1/2x + 1</string>
+    <string name="Box7B4_one">Si una recta tiene como pendiente m = -3 y la ordenada al origen es -2:</string>
+    <string name="Box7B4_two">1) La ecuación de la recta es \n\ny = -3x -2\n2) Su gráfica es: </string>
+    <string name="exampleAlertBtnGr">La forma pendiente - ordenada al origen es representada por la ecuación:</string>
+    <string name="exampleAlertBtnGr_one">
+        Donde m es la pendiente (Grado de inclinación) y b es la ordenada al origen (punto de intersección de la recta con el eje x e y)
+    </string>
+    <string name="exampleAlertBtnGr_two">Si la ecuación punto - pendiente tiene la forma y = mx, donde m es una constante, la recta pasa por el origen.</string>
+
+    <!--Sistema de ecuaciones 1-->
+    <string name="name_sistemEcua1">Sistema de ecuaciones 1</string>
+    <string name="Box1C1_one">Un sistema de ecuaciones lineales con dos variables, x y y, puede expresarse como: </string>
+    <string name="Box1C1_two">
+        La resolución de un sistema de ecuaciones representa hallar el punto en el que dos rectas se cruzan en un gráfico.\n\nEn el tema de sistema de
+        ecuaciones veremos las distintas maneras de resolver un sistema de ecuaciones.
+    </string>
+    <string name="Box2C1_one">Método por eliminación</string>
+    <string name="Box2C1_two">Procedimiento</string>
+    <string name="Box2C1_three">1. Enumera las ecuaciones para fácil identificación.
+    \n\n2. Resta las ecuaciones: Eliminar la variable con el mismo coeficiente en ambas ecuaciones.</string>
+    <string name="Box2C1_four">3. Despeja la variable restante.
+    \n\n4. Sustituye el valor de la variable en la ecuación 1 o en 2.
+    \n\n5. Obtenemos el conjunto solución.</string>
+    <string name="pasoOne">Paso 1. Enumera las ecuaciones</string>
+    <string name="pasoOne_One">Del siguiente sistema de ecuaciones, ¿a qué ecuación le corresponde ser la 2da ecuación?</string>
+    <string name="pasoTwo">Paso 2. Resta las ecuaciones</string>
+    <string name="pasoTwo_One">
+        Observa que ambas ecuaciones tienen el mismo coeficiente para y (3y). Esto es conveniente para poder eliminar a la variable y simplemente sumando
+        ambas ecuaciones.
+    </string>
+    <string name="pasoTwo_two">De 1 + 2</string>
+    <string name="pasoThree">Paso 2. Despeja la variable</string>
+    <string name="pasoThree_One">
+        Ahora que eliminamos la variable y, podemos resolver fácilmente para x.
+    </string>
+    <string name="pasoFour">Paso 4. Sustituye el valor calculado en una ecuación.</string>
+    <string name="pasoFour_One">Sustituye el valor de x en la ecuación 1 o 2.</string>
+    <string name="pasoFive">Paso 5. Obtener el conjunto solución.</string>
+    <string name="pasoFive_One">Finalmente expresa el valor de x y de y como par ordenado.</string>
+    <string name="exerciseSistemOne2_one">Con lo aprendido anteriormente, resuelve lo siguiente.</string>
+    <string name="exerciseSistemOne2_two">De 1 + 2, ¿Cuál es el valor de la variable x?</string>
+    <string name="exerciseSistemOne2_three">Sustituyendo el valor obtenido</string>
+    <string name="exerciseSistemOne2_four">Sustituye el valor de x en la ecuación 1 o 2.</string>
+    <string name="exerciseSistemOne2_five">Expresa los valores obtenidos.</string>
+    <string name="exerciseSistemOne2_six">De 1 - 2, ¿Cuál es el valor de la variable y?</string>
+    <string name="exerciseSistemOne2_seven">Sustituye el valor hallado en la ecuación 1 o 2</string>
+    <string name="sistemEcua1Three_one">Del ejercicio anterior ¿Cómo podemos comprobar que los valores encontrados son correctos?</string>
+    <string name="sistemEcua1Three_two">
+        De (x, y) = (-2, -3) sustituimos los valores encontrados en la 1ra y 2da ecuación.
+    </string>
+    <string name="sistemEcua1Three_three">Si la igualdad es verdadera, los valores obtenidos también lo son.</string>
+
+    <string name="sistemEcua1Three_four">Del sistema de ecuaciones, comprueba que: </string>
+    <string name="sistemEcua1Three_five">Método por igualación</string>
+    <string name="sistemEcua1Three_five_one">
+        Este método es aplicable para todos los ejercicios anteriormente vistos. Puedes intentar resolver los ejercicios anteriores aplicando el método por
+        igualación.
+    </string>
+    <string name="sistemEcua1Three_five_two">1. Despejamos la variable x ó y de ambas ecuaciones. En este caso, despejaremos la variable y.</string>
+    <string name="sistemEcua1Three_five_three">2. Ahora que tenemos y en términos de x en ambas ecuaciones, las igualaremos.</string>
+    <string name="sistemEcua1Three_five_four">3. Resolvemos la ecuación para la variable x.</string>
+    <string name="sistemEcua1Three_five_five">4 . Sustituimos el valor obtenido en la ecuación 1 o 2 y, finalmente, obtenemos el conjunto solución.</string>
+    <string name="first">Despejamos la variable \"y\" de la primera ecuación.</string>
+    <string name="second">Despejamos la variable \"y\" de la segunda ecuación.</string>
+    <string name="third">Una vez igualadas ambos términos de \"y\", encontraremos a x</string>
+
+    <!--Sistema de ecuaciones 2-->
+    <string name="name_sistemEcua2">Sistema de ecuaciones 2</string>
+    <string name="Box1C3_two">
+       Un sistema de ecuaciones tiene la forma ax + by = c, la cual podemos expresar en la forma y = mx + b.
+    </string>
+    <string name="SistemEcua2_one">Representando la ecuación 1 en la forma y = mx + b</string>
+    <string name="SistemEcua2_two">Representa la segunda ecuación en la forma y = mx + b</string>
+    <string name="SistemEcua2_three">Gráficamente: </string>
+    <string name="Box1C3_three">De la ecuación uno y dos:</string>
+    <string name="Box1C3_three_one">
+        Observa que ambas ecuaciones tienen la misma pendiente (2x). Esto implica que ambas rectas son paralelas, por lo tanto, no hay un par (x,y) que
+        satisfaga ambas ecuaciones al mismo tiempo.
+    </string>
+    <string name="analizaEjemplo">Analiza el siguiente ejemplo.</string>
+    <string name="Box2C3_one">Método por sustitución.</string>
+    <string name="Box3C3_two">Procedimiento</string>
+    <string name="Box3C3_three">1. Despejamos la variable \"y\" de la primera ecuación.</string>
+    <string name="Box3C3_three_one">
+        2. Ahora que tenemos \"y\" en términos de x, sustituimos esta expresión en la segunda ecuación y resolvemos para x.
+    </string>
+    <string name="Box3C3_three_two">3. Ahora sustituimos el valor encontrado de x en la primera ecuación.</string>
+    <string name="Box3C3_three_three">4. Obtenemos el conjunto solución (x,y)</string>
+    <string name="sistemEcua2_two_one">Según el paso 1 del método por eliminación, ¿Cual de las siguientes ecuaciones es el equivalente de multiplicar la segunda ecuación?</string>
+    <string name="sistemEcua2_two_two">Del sistema quivalente obtenido, sumamos la primera y segunda ecuación para eliminar las variables X o Y</string>
+    <string name="sistemEcua2_two_three">Finalmente, sustituye el valor obtenido en la ecuación 1 o 2 y obtén el conjunto solución.</string>
+    <string name="Box5C3_one">Resuelve los siguientes sistemas de ecuaciones</string>
+    <string name="Box6C3_two">Método por eliminación</string>
+    <string name="Box6C3_four_one">
+        1. El método de eliminación consiste en combinar las ecuaciones para eliminar una de las variables, facilitando así encontrar el valor de la otra variable.
+    </string>
+    <string name="Box6C3_four_one_one">
+        Decide cuál variable deseas eliminar primero (ya sea x o y).
+        En este ejemplo, vamos a eliminar x. Para hacerlo, observamos que el coeficiente de x en la Ecuación 2 es 1.
+        Si multiplicamos toda la Ecuación 2 por 5, igualaremos los coeficientes de x.
+        \n¿Cual de las siguientes ecuaciones es el equivalente de multiplicar por 5 la segunda ecuación?
+    </string>
+    <string name="Box6C3_four_two">
+        2. Se escribe el nuevo sistema equivalente obtenido y restamos las ecuaciones para hallar el valor de la otra variable.
+    </string>
+    <string name="Box6C3_four_two_one">Restamos la ecuación 3 con la ecuación 1 para eliminar a x.</string>
+    <string name="Box6C3_four_three">3. Sustituimos el valor obtenido en alguna de las ecuaciones originales para encontrar la variable restante.</string>
+    <string name="Box6C3_four_three_one">Sustituimos y = 1 en la ecuaión 1 o en 2 y expresa el conjunto solución.</string>
+    <string name="Box6C3_four">
+        1. Se escribe el sistema equivalente que se obtiene al mutilplicar por -3 la segunda ecuación.\n\n
+        2. Del sistema quivalente obtenido, sumamos la primera y segunda ecuación para eliminar las variables X o Y.\n\n
+        3. No existe un par ordenado (x,y) que constituya un enunciado verdadero. Por lo que el resultado será un conjunto vacío.
+    </string>
+    <string name="Box8C3_one">Resuelve el siguiente ejercicio a través del método por eliminación</string>
+
+    <!--Sistema de ecuaciones 3-->
+    <string name="name_sistemEcua3">Sistema de ecuaciones 3</string>
+    <string name="Box1C4_one">Hasta ahora hemos visto un sistema de ecuaciones lineales con 2 variables.
+        En este apartado veremos los sistemas de ecuaciones lineales con tres variables, aplicando los métodos ya vistos de eliminación o por sustitución.\nEl
+        procedimiento será, primero, buscar eliminar una variable para así tener un sistema de ecuaciones con dos variables, posteriormente se resuelve el
+    sistema con los procemientos ya aprendidos.\nAlgo importante a tener en cuenta es que la gráfica de una ecuación con 3 variables se puede representar
+    en un plano tridimensional, razón por la cual no los estudiaremos en este curso.\n\n Ejemplo ilustrativo de un plano tridimensional:</string>
+    <string name="Box1C4_two">¡Mucha suerte!</string>
+    <string name="Box2C4_one">Ejemplo de desarrollo</string>
+    <string name="Box2C4_two">Procedimiento:</string>
+    <string name="Box2C4_three">
+        1. Reescribe las ecuaciones de la forma ax+by+cz=d.\n2.
+        Restamos la ecuación 1 y 2 para eliminar x:
+    </string>
+    <string name="Box2C4_four">
+        3. Restamos la ecuación 2 y 3 para eliminar x:
+    </string>
+    <string name="Box2C4_five">
+        4. Obtenemos un nuevo sistema que es equivalente al sistema original. La ecuación 4 y 5 son del resultado obtenido.\n5.
+        Restamos la ecuación 4 y 5 para hallar z.\n6.
+        Sustituimos el valor encontrado de z en la ecuación 4 o en 5 para hallar y.\n7.
+        Sustituimos los valores encontrados de z y y en la ecuación 1 para hallar x.\n8.
+        Puedes comprobar el resultado obtenido.
+    </string>
+    <string name="Box3C4_one">1) Resuelve el siguiente sistema de ecuaciones.</string>
+    <string name="Box5C4_one">2) Resuelve los siguientes sistemas de ecuaciones</string>
+
+    <!--Algebra-->
+    <string name="comentarioAlge1">Álgebra básica</string>
+
+    <!--Desigualdades lineales-->
+    <string name="name_desiLineales">Desigualdades lineales</string>
+    <string name="Box1Desi_one">Las desigualdades lineales se usan para comparar dos expresiones lineales y determinar si una es mayor o menor
+        que la otra.\nPara ello usaremos los simbolos: </string>
+    <string name="ExampleDesiOne_one">&lt; mayor que</string>
+    <string name="ExampleDesiOne_two">&gt; menor que</string>
+    <string name="ExampleDesiOne_three">¿Cómo se lee lo siguiente?</string>
+    <string name="sumDesiLineales">Suma y resta de desigualdades linales</string>
+    <string name="sumDesiLineales_one">En suma y resta, el signo de desigualdad no varía.</string>
+    <string name="Box1Desi_three">La resolución de una desigualdad lineal es prácticamente igual a una ecuación lineal.</string>
+    <string name="Box2Desi_one"> Resuelve los siguientes ejercicios.</string>
+    <string name="Box2Desi_two">Nota: </string>
+    <string name="Box2Desi_three"> Si se multiplica o se divide una desigualdad por un número negativo, el símbolo de desigualdad se inivierte para mantener
+    la desigualdad verdadera.</string>
+    <string name="Box4Desi_one">¿Porqué se invierte el símbolo de desigualdad?</string>
+    <string name="Box4Desi_two">Observa el siguiente ejemplo.</string>
+    <string name="desiLinealesThree_one">x más 2 es menor que 2 veces x. Halle el rango de valores de x.</string>
+    <string name="desiLinealesThree_two">Menos cuatro menos x es mayor que menos 3 veces x. Halle el rango de valores de x.</string>
+    <string name="desiLinealesThree_three">
+        Cinco veces la suma de x más 1 es mayor que dos veces la diferencia entre 2x y 1. Halle el rango de valores de x.
+    </string>
+    <string name="writeHere">Tu respuesta se verá aquí.</string>
+
+    <!--Productos notables-->
+    <string name="name_producNota">Productos notables</string>
+    <string name="name_producNota2">Productos notables 2</string>
+    <string name="Box1C4Notables_one">Son formulas matemáticas que nos permitirán realizar cálculos, simplificaciones, factorización de polinomios y
+    resolución de ecuaciones de una manera más practica y sencilla.</string>
+    <string name="Box1C4Notables_formula">Formula:</string>
+    <string name="Box1C4Notables_apliformu">Desarrolla lo siguiente aplicando la formula.</string>
+    <string name="Box4C4_Produc">La formula se obtuvo de la siguiente manera:</string>
+    <string name="Box7C4_Desa">Desarrolla lo siguiente</string>
+
+    <!--Algebra 2-->
+    <string name="AlgeMedi">Álgebra Media</string>
+
+    <!--Factorizacion 1-->
+    <string name="name_Facto1">Factorización 1</string>
+    <string name="Box1D1_one">¿Puedes resolver la siguiente ecuación?</string>
+    <string name="Box1D1_two">Tal vez al principio no, pero conforme avances en los siguientes temas te darás cuenta que en realidad no es complicado
+    resolver la ecuación anterior.</string>
+    <string name="Box1D1_three">
+        1. Identifica el factor común: analiza cada término de la expresión y busca un factor presente en todos ellos.
+    </string>
+    <string name="Box1D1_four">2. Extrae el factor común y escribe los términos restantes entre parentesis.</string>
+    <string name="Box1D1_five">3. Simplifica la expresión.</string>
+    <string name="Box2D1_one">Factoriza como en el ejemplo.</string>
+    <string name="factoriza">Factoriza.</string>
+
+    <!--Factorización 2-->
+    <string name="name_facto2">Factorización 2</string>
+    <string name="Box1D2_one">Formula</string>
+    <string name="Box2D2_one">1. Analiza la ecuación en la forma:</string>
+    <string name="Box2D2_two">2. Busca que a + b = 5 y que ab = 4, para ello muestra los pares de números que den como producto 4.</string>
+    <string name="Box2D2_three">3. Calcula la suma: </string>
+    <string name="Box2D2_four">Por lo tanto a = 1 , b = 4</string>
+    <string name="Box1D2_two">Método de multiplicación cruzada</string>
+
+    <!--Factorizacion 3-->
+    <string name="name_facto3">Factorización 3</string>
+    <string name="Box1D3_one">1. Aplicaremos el método de múltiplicación cruzada para encontrar los factores a,b,c y d.</string>
+    <string name="Box1D3_two">2. Necesitamos encontrar los factores posibles que cumplan la formula dada: ac=3, ad+bc=5 y bd = 2.</string>
+    <string name="Box1D3_three">3. Expresa los resultados encontrados en la forma: (ax + b)(cx + d)</string>
+
+    <!--Factorización 4-->
+    <string name="name_facto4">Factorización 4</string>
+    <string name="Box2D4_one">1. Identificamos que se trata de una factorización por factor común, en este caso (x+y) es el factor común.\n2.
+    Extraemos el factor común (x+y)[(x+y)+2].\n3.
+    Simplifica la expresión.</string>
+    <string name="idFacto">1 - Identifica el factor común</string>
+    <string name="s_facto3_one">Una vez identificado el factor común.</string>
+    <string name="idFacto_one">2 - Extrae el factor común de la ecuación.</string>
+    <string name="idFacto_one_">Posteriormente.</string>
+    <string name="idFacto_two">3 - Simplifica la expresión</string>
+    <string name="excersiceSevenFacto4">Escoje el procedimiento correcto</string>
+    <string name="idFacto_one_one">2 - Extrae el factor común de:</string>
+    <string name="idFacto_one_two">3 - Finalmente simplifica.</string>
+    <string name="factoOne_two_one">Escribe tu respues de la siguiente forma:</string>
+
+    <!--Algebra avanzada-->
+
+    <string name="comentarioAlge3">Álgebra avanzada</string>
+
+    <!--Raíz-->
+    <string name="name_opeRaiz">Operaciones con raíces</string>
+    <string name="Box1E1_one">En esta lección abarcaremos el tema de las raices o radicación.\nLa
+        raíz de una expresión algebraica no es más que un valor que, al elevarlo a una potencia determinada, da como resultado la expresión dada. Por
+    ejemplo:</string>
+    <string name="Box1E1_two">Para comprender las operaciones con radicales es necesario entender las siguientes propiedades:</string>
+    <string name="Box1E1_three">Propiedad distributiva:\n Al tratarse de la suma y resta, la radicación no es distributiva.</string>
+    <string name="Box1E1_four">De igual forma:</string>
+    <string name="Box2E1_one">Resuelve lo siguiente.</string>
+    <string name="Box3E1_one">Propiedad distributiva:</string>
+    <string name="Box3E1_two">Al tratarse de la multiplicación y división, la radicación sí es distributiva.</string>
+    <string name="Box4E1_one">También es posible simplificar radicales aplicando la propiedad distributiva.</string>
+    <string name="Box5E1_one">Resuelve lo siguiente.</string>
+
+    <!--Números irracionales-->
+    <string name="name_numIrra">Números irracionales</string>
+    <string name="Box1E2_one">Los números irracionales son números que no pueden expresarse de manera exacta mediante enteros o como fracción debido a
+    son números inifinitos no periódicos, por ejemplo:</string>
+    <string name="Box1E2_two">Ahora aplicaremos las fórmulas aprendidas en l aparte de factorización con números irracionales</string>
+    <string name="Box2E2_one">Otra propiedad de los radicales es:</string>
+    <string name="Box2E2_two">Raíz de una potencia:</string>
+    <string name="Box2E2_three">Una raíz con índice n puede elevarse a una potencia si se divide el exponente de la potencia por el índice de la raíz, es decir:</string>
+    <string name="Box2E2_four">Así pues,</string>
+
+    <!--Desarrollo de polinomios-->
+    <string name="name_desaPoli">Desarrollo de polinomios</string>
+    <string name="Box1E4_one">Simplifica</string>
+    <string name="Box2E4_one">1. Separa (a+b+c) en términos semejantes.\n2.
+    Desarrolla en la forma:</string>
+    <string name="Box2E4_two">3. Simplifica y ordena los términos.</string>
+    <string name="Box3E4">De lo anterior obtenemos: </string>
+    <string name="Box3E4_one">Formula:</string>
+    <string name="Box1E4_two">Desarrolla lo siguiente. </string>
+    <string name="Box4E4_one">1. Separa (a+b+c) en dos términos.\n2. Desarrolla usando la formula:</string>
+    <string name="Box5E4_one">Considera a (a+b) como una sola cantidad.\n2) Desarrolla
+    aplicando la formula:</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
